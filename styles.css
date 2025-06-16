@@ -621,6 +621,12 @@ body {
         gap: 20px;
     }
     
+    .articles-card {
+        grid-template-columns: 1fr;
+        gap: 20px;
+        padding: 30px;
+    }
+    
     .container {
         padding: 0 15px;
     }
